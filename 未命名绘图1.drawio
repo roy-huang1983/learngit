@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-22T08:26:50.295Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="fcVUdayQbIm3APsG52G9" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-22T08:27:45.597Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="tS_YtnTQzLbNBlHjt9Qn" version="14.1.1" type="github">
   <diagram id="s8uIxDWAPQzP6aIuzZrn" name="第 1 页">
-    <mxGraphModel dx="902" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1142" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -59,6 +59,12 @@
         </mxCell>
         <mxCell id="qZydOTqYSD-dVVqWFDhd-48" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;rounded=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="770" y="510" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qZydOTqYSD-dVVqWFDhd-57" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="440" width="400" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="qZydOTqYSD-dVVqWFDhd-58" value="AWS RDS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="1255" y="450" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
